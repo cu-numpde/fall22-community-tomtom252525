@@ -21,8 +21,8 @@ _page.php)  |
 | Typical number of commits per week? | 25 (a lot) |
 | Typical commit size | `git log --shortstat` shows anywhere from 1 to 180 insertions/deletions per commit |
 | How does the project accept contributions? | pull requests  |
-| Does the project have an automated test suite? | yes? it has a test folder but don't understand what's in it |
-| Does the project use continuous integration? | sortof - they have a dev version updated annually while another version is updated continually |
+| Does the project have an automated test suite? | Yes - "tutorials" that walk through examples |
+| Does the project use continuous integration? | sortof - they have a dev version officially released annually while another version is updated continually |
 | Are any legal/licensing steps required to contribute? | Yes -> explained below |
 
 ### Install and run
@@ -49,6 +49,7 @@ Legal: Once a contribution is made, the contributor has to sign the OpenFOAM Fou
 Note: I was unable to find a place where development discussions are had. I simply found the issue tracking system. This may make sense with how few contributers there are, as I could imagine they communicate directly.
 
 Note2: I have the repo cloned, but my lack of experience is making it hard to complete the rest of this. will try again tomorrow.
+Note2 update: unable to get the test case working
 
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU

@@ -21,7 +21,7 @@ OpenFOAM is an open source Computational Fluid Dynamics (CFD) code used in acade
 | Typical commit size | `git log --shortstat` shows anywhere from 1 to 180 insertions/deletions per commit |
 | How does the project accept contributions? | pull requests  |
 | Does the project have an automated test suite? | Yes - "tutorials" that walk through examples |
-| Does the project use continuous integration? | sortof - they have a dev version officially released annually while another version is updated continually |
+| Does the project use continuous integration? | Yes - they have a dev version officially released annually that is continually updated |
 | Are any legal/licensing steps required to contribute? | Yes -> explained below |
 
 ### Install and run

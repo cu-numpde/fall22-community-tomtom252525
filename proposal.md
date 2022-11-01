@@ -15,10 +15,9 @@ OpenFOAM is an open source Computational Fluid Dynamics (CFD) code used in acade
 | Number of contributors in the past year | `git shortlog -se --since=2021-10-01` -> 4 |
 | Number of contributors in the lifetime of the project | 11 |
 | Number of distinct affiliations | 5-10 "Organizations Signing the contributor agreement" |
-| Where do development discussions take place? | Mailing list, issue tracking system (https://bugs.openfoam.org/view_all_bug
-_page.php)  |
+| Where do development discussions take place? | Mailing list, issue tracking system  |
 | Typical number of emails/comments per week? |  9 issue updates on the above link per week |
-| Typical number of commits per week? | 25 (a lot) |
+| Typical number of commits per week? | ~25 |
 | Typical commit size | `git log --shortstat` shows anywhere from 1 to 180 insertions/deletions per commit |
 | How does the project accept contributions? | pull requests  |
 | Does the project have an automated test suite? | Yes - "tutorials" that walk through examples |
@@ -47,6 +46,8 @@ acceptable for this question.
 Legal: Once a contribution is made, the contributor has to sign the OpenFOAM Foundation Contributor Agreement, which essentially transfers ownership of the code to OpenFOAM so they can take legal action against those who infringe the OpenFOAM licence (GNU General Public License).
 
 Note: I was unable to find a place where development discussions are had. I simply found the issue tracking system. This may make sense with how few contributers there are, as I could imagine they communicate directly.
+
+Note1: Tracking system link: (https://bugs.openfoam.org/view_all_bug_page.php) 
 
 Note2: I have the repo cloned, but my lack of experience is making it hard to complete the rest of this. will try again tomorrow.
 Note2 update: unable to get the test case working
